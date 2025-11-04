@@ -22,8 +22,8 @@
   <circle cx="215" cy="250" r="70" fill="#232526"/>
   
   <!-- 主文字 -->
-  <text x="621" y="220" font-family="STKaiti, KaiTi, serif" font-size="76" fill="#e8e8e8" text-anchor="middle" font-weight="bold">月下独白</text>
-  <text x="621" y="320" font-family="STKaiti, KaiTi, serif" font-size="76" fill="#e8e8e8" text-anchor="middle" font-weight="bold">字里有光</text>
+  <text x="621" y="220" font-family="STKaiti, KaiTi, serif" font-size="76" fill="#e8e8e8" text-anchor="middle" font-weight="bold">一隅安静</text>
+  <text x="621" y="320" font-family="STKaiti, KaiTi, serif" font-size="76" fill="#e8e8e8" text-anchor="middle" font-weight="bold">记录时光</text>
   
   <!-- 装饰 -->
   <line x1="421" y1="360" x2="821" y2="360" stroke="#e8e8e8" stroke-width="2" opacity="0.4"/>

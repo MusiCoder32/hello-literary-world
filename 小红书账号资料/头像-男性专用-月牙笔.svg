@@ -27,7 +27,7 @@
   <line x1="188" y1="270" x2="188" y2="330" stroke="#232526" stroke-width="1" opacity="0.3"/>
   
   <!-- 底部文字 -->
-  <text x="200" y="370" font-family="STKaiti, KaiTi, serif" font-size="32" fill="#c9d1d9" text-anchor="middle" opacity="0.8">夜写</text>
+  <text x="200" y="370" font-family="STKaiti, KaiTi, serif" font-size="32" fill="#c9d1d9" text-anchor="middle" opacity="0.8">木四</text>
   
   <!-- 星光 -->
   <circle cx="120" cy="120" r="2" fill="#ffffff" opacity="0.8"/>
